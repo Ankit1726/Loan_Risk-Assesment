@@ -171,11 +171,9 @@ The deployed application ensures that preprocessing during inference exactly mat
 - Cloud deployment (Streamlit Cloud / AWS)
 
 ---
+#### Live Demo: https://lyvmgbcdvkpatdsznacbnv.streamlit.app
 
 ## How to Run
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
-
----
-Live Demo: https://lyvmgbcdvkpatdsznacbnv.streamlit.app
