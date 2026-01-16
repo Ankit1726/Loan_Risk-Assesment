@@ -176,3 +176,6 @@ The deployed application ensures that preprocessing during inference exactly mat
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+---
+Live Demo: https://lyvmgbcdvkpatdsznacbnv.streamlit.app
