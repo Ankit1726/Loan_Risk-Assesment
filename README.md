@@ -172,8 +172,8 @@ The deployed application ensures that preprocessing during inference exactly mat
 
 ---
 #### Live Demo: https://lyvmgbcdvkpatdsznacbnv.streamlit.app
+---
 
-## How to Run
-```bash
-pip install -r requirements.txt
-streamlit run app.py
+### 👤 Author
+**Ankit Gupta**  
+AIML & Data Science Enthusitic
