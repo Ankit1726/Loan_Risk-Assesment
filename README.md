@@ -171,7 +171,7 @@ The deployed application ensures that preprocessing during inference exactly mat
 - Cloud deployment (Streamlit Cloud / AWS)
 
 ---
-#### Live Demo: https://lyvmgbcdvkpatdsznacbnv.streamlit.app
+#### Live Demo: https://loanriskanalyser-49drjgq2lgojywdqgxtwcm.streamlit.app
 ---
 
 ### 👤 Author
